@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_f09f04f8-3584-4703-b251-cc4e17865875",
+      "org_id": "orga_d869989c-b607-40d9-ad14-d5facf5d7400",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_f09f04f8-3584-4703-b251-cc4e17865875.git",
+      "name": "ondanostra",
+      "alias": "ondanostra"
+    }
+  ]
+}

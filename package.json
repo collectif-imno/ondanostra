@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-sslify": "^1.2.0",
+    "http-server": "^0.12.1"
+  },
+  "name": "ondanostra-playlists",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
